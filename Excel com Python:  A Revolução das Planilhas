@@ -1,0 +1,15 @@
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+seguem abaixo.
+
+Criando um titulo:
+Prompt ChatGPT: 
+Crie um título de um ebook sobre o tema de utilização do phyton no excel, o ebook é do nicho de programação e o subnicho é de phyton, o título deve ser épico e curto, me liste 5 variações de títulos
+
+Criando o conteúdo:
+Prompt ChatGPT: 
+Faça um texto para ebook , com foco em utilização de phyton no excel, listando as principais possibilidades para turbinar as planilhas com exemplos em código.
+{REGRAS} 
+>Explique sempre de uma maneira simples 
+>Deixe o texto enxuto 
+>Sempre traga exemplos de código em contextos reais 
+>sempre deixe um título sugestivo por tópico
